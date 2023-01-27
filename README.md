@@ -19,18 +19,15 @@ If the application is going to be installed locally, MySQL must be installed and
 If the application is going to be accessed via Heroku, no installation is necessary, simply visit the link below.
 
 ## Usage
-If the application is hosted locally, it can be started with 'npm start' and accessed on a web browser at http://localhost:3000/.
-If the application is going to be accessed on Heroku, use the below link to access the website.
+If the application is hosted locally, it can be started with 'npm start' and accessed on a web browser at http://localhost:3000/. Alternatively the app can be accessed on Heroku. Once the webpage is up and running, users can navigate to the "login" button to create an account. When the user is logged in they will be directed to their dashboard where they can create posts as well as edit and delete them.
 
-![Application Screenshot](./assets/images/application-screenshot.jpg?raw=tru "Application Screenshot")
+![Application Screenshot](./assets/screenshot.jpg?raw=tru "Application Screenshot")
 
-Heroku Link: https://cryptic-taiga-66100.herokuapp.com/
+Heroku Link: https://thawing-hollows-45389.herokuapp.com/
 
-## Tests
-There are no tests for this application.
 
 ## Credits
-Made by Jonathan Kim, Stefan Oddson, Steffen Gonzalez, and Jake Lauterstein.
+Made by Stefan Oddsson.
 
 ## License
 Copyright &copy; 2022
