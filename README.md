@@ -21,7 +21,7 @@ If the application is going to be accessed via Heroku, no installation is necess
 ## Usage
 If the application is hosted locally, it can be started with 'npm start' and accessed on a web browser at http://localhost:3000/. Alternatively the app can be accessed on Heroku. Once the webpage is up and running, users can navigate to the "login" button to create an account. When the user is logged in they will be directed to their dashboard where they can create posts as well as edit and delete them.
 
-![Application Screenshot](./assets/screenshot.jpg?raw=tru "Application Screenshot")
+![Application Screenshot](./public/assets/screenshot.jpg?raw=tru "Application Screenshot")
 
 Heroku Link: https://thawing-hollows-45389.herokuapp.com/
 
